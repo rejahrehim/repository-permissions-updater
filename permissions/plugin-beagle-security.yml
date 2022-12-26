@@ -7,3 +7,5 @@ paths:
   - "io/jenkins/plugins/beagle-security"
 developers:
   - "rejah"
+cd:
+  enabled: true
